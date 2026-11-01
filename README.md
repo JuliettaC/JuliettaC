@@ -22,12 +22,8 @@
 
 #### a little about me
 
-- exploring different areas of computer science
+- exploring different areas of cs
 - currently learning english & mandarin
-- slowly turning ideas into little projects
-
-
-<!-- LITTLE REMINDER -->
 
 <div align="left">
 
