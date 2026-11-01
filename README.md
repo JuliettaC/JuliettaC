@@ -1,32 +1,52 @@
-<div align="center">
 
-<h3>hi, i'm Julietta ₍^˵- ⩊ -˵^₎⟆</h3>
+<!-- INTRODUCTION -->
 
-<p>third-year computer science & engineering student</p>
+<img
+  align="left"
+  src="./black%20and%20white%20cat%20GIF.gif"
+  width="150"
+  alt="cute cat"
+/>
 
-<p>just learning, building, and figuring things out.</p>
-
+<div align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>hi, i'm Julietta ₍^˵- ⩊ -˵^₎⟆</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; third-year computer science & engineering student<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; just learning, building, and figuring things out.
 </div>
 
 <br clear="all">
 
-### a little about me
+
+<!-- ABOUT ME -->
+
+#### a little about me
 
 - exploring different areas of computer science
 - currently learning english & mandarin
 - slowly turning ideas into little projects
 
-<br>
 
-<div align=" left">
+<!-- LITTLE REMINDER -->
 
-<img align="left" src="./Cat%20Girl%20Vanilla%20GIF.gif" width="270" alt="Vanilla" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>୨୧ ₊˚⊹ ♡ ⊹˚₊ ୨୧</sub>
-  <br>  <br>
-&nbsp;&nbsp;&nbsp;慢慢来，一步一步。
+<div align="left">
+
+  <img
+    align="left"
+    src="./Cat%20Girl%20Vanilla%20GIF.gif"
+    width="270"
+    alt="Vanilla"
+  />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>୨୧ ₊˚⊹ ♡ ⊹˚₊ ୨୧</sub>
+  <br><br>
+  &nbsp;&nbsp;&nbsp;慢慢来，一步一步。
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp; <sub>one step at a time</sub>
-  <br>  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>୨୧ ₊˚⊹ ♡ ⊹˚₊ ୨୧</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>one step at a time</sub>
+  <br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>୨୧ ₊˚⊹ ♡ ⊹˚₊ ୨୧</sub>
 
 </div>
