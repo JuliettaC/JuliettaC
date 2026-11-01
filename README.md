@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./Cat%20Girl%20Vanilla%20GIF.gif" width="260" alt="Vanilla" />
+</div>
+
+<br>
+
 ---
 <div align="center">
   
