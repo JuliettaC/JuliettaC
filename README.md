@@ -10,7 +10,7 @@
 <p>
   <strong>a little about me :3</strong><br>
   ۶ৎ exploring different areas of cs<br>
-  ۶ৎ currently learning english &amp; mandarin
+  ۶ৎ currently learning english &amp; 中文
 </p>
   <img
     src="./Cat%20Girl%20Vanilla%20GIF.gif"
