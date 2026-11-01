@@ -1,16 +1,30 @@
-## Hi there 👋
+---
+<div align="center">
+  
+### hi, i'm Julietta ₍^˵- ⩊ -˵^₎⟆
 
-<!--
-**JuliettaC/JuliettaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+third-year computer science & engineering student
 
-Here are some ideas to get you started:
+just learning, building, and figuring things out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+#### a little about me
+
+- exploring different areas of computer science
+- currently learning english & mandarin
+- slowly turning ideas into little projects
+
+<br>
+
+<div align="center">
+
+慢慢来，一步一步。
+
+<sub>one step at a time </sub>
+
+<sub>୨୧ ₊˚⊹ ♡ ⊹˚₊ ୨୧<sub>
+
+</div>
