@@ -1,23 +1,16 @@
 <div align="center">
-  <img src="./Cat%20Girl%20Vanilla%20GIF.gif" width="260" alt="Vanilla" />
-</div>
 
-<br>
+<h3>hi, i'm Julietta ₍^˵- ⩊ -˵^₎⟆</h3>
 
----
-<div align="center">
-  
-### hi, i'm Julietta ₍^˵- ⩊ -˵^₎⟆
+<p>third-year computer science & engineering student</p>
 
-third-year computer science & engineering student
-
-just learning, building, and figuring things out.
+<p>just learning, building, and figuring things out.</p>
 
 </div>
 
----
+<br clear="all">
 
-#### a little about me
+### a little about me
 
 - exploring different areas of computer science
 - currently learning english & mandarin
@@ -25,12 +18,15 @@ just learning, building, and figuring things out.
 
 <br>
 
-<div align="center">
+<div align=" left">
 
-慢慢来，一步一步。
-
-<sub>one step at a time </sub>
-
-<sub>୨୧ ₊˚⊹ ♡ ⊹˚₊ ୨୧<sub>
+<img align="left" src="./Cat%20Girl%20Vanilla%20GIF.gif" width="270" alt="Vanilla" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>୨୧ ₊˚⊹ ♡ ⊹˚₊ ୨୧</sub>
+  <br>  <br>
+&nbsp;&nbsp;&nbsp;慢慢来，一步一步。
+  <br>
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>one step at a time</sub>
+  <br>  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>୨୧ ₊˚⊹ ♡ ⊹˚₊ ୨୧</sub>
 
 </div>
