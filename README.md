@@ -17,14 +17,14 @@
 
 <br clear="all">
 
+---
 
 <!-- ABOUT ME -->
 
-**a little about me**
-
+**a little about me :3**
 - exploring different areas of cs
 - currently learning english & mandarin
-
+---
 <div align="left">
 
   <img
