@@ -20,7 +20,7 @@
 
 <!-- ABOUT ME -->
 
-#### a little about me
+**a little about me**
 
 - exploring different areas of cs
 - currently learning english & mandarin
